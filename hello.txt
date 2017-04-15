@@ -1,7 +1,4 @@
 this is my sixth try.
 1111111111111111111
-<<<<<<< HEAD
 st
-=======
 st_bugfix
->>>>>>> st_bugfix
